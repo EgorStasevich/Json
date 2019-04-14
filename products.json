@@ -4,7 +4,7 @@
     "name": "Brocolli - 1 Kg",
     "price": 120,
     "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620046/dummy-products/broccoli.jpg",
-    "category": "vegetables"
+    "category": "vegetables",
     "description": 123
   },
   {
